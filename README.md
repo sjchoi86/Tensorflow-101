@@ -1,8 +1,6 @@
 # Tensorflow Tutorials using Jupyter Notebook 
 
-TensorFlow tutorials written in pyhton (of course) with Jupyter Notebook. 
-
-##### by [Sungjoon Choi](http://enginius.tistory.com) 
+TensorFlow tutorials written in pyhton (of course) with Jupyter Notebook. Tried to explain as kindly as possible, as this tutorials are intended for TensorFlow beginners. 
 
 ### Contents
 1. Basics of [TensorFlow](https://github.com/sjchoi86/tensorflow-101/blob/master/notebooks/basic_tensorflow.ipynb) / [MNIST](https://github.com/sjchoi86/tensorflow-101/blob/master/notebooks/basic_mnist.ipynb) / [Image Processing](https://github.com/sjchoi86/tensorflow-101/blob/master/notebooks/basic_imgprocess.ipynb) / [Generating Custom Dataset](https://github.com/sjchoi86/tensorflow-101/blob/master/notebooks/basic_gendataset.ipynb)
@@ -25,3 +23,5 @@ TensorFlow tutorials written in pyhton (of course) with Jupyter Notebook.
 
 ### Note
 Most of the codes are simple refactoring of [Aymeric Damien's Tutorial](https://github.com/aymericdamien/TensorFlow-Examples/) or [Nathan Lintz's Tutorial](https://github.com/nlintz/TensorFlow-Tutorials). 
+
+### Collected and Modifyed by [Sungjoon](http://enginius.tistory.com) 
