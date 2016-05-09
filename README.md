@@ -1,5 +1,7 @@
 # Tensorflow Tutorials using Jupyter Notebook 
 
+TensorFlow tutorials written in pyhton (of course) with Jupyter Notebook. 
+
 ##### by [Sungjoon Choi](http://enginius.tistory.com) 
 
 ### Contents
