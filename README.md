@@ -1,5 +1,5 @@
-# tensorflow-101
-TensorFlow Tutorials
+# Tensorflow Tutorials using Jupyter Notebook 
+##### by [Sungjoon Choi](http://enginius.tistory.com) 
 
 1. Basics of [TensorFlow](https://github.com/sjchoi86/tensorflow-101/blob/master/notebooks/basic_tensorflow.ipynb) / [MNIST](https://github.com/sjchoi86/tensorflow-101/blob/master/notebooks/basic_mnist.ipynb) / [Image Processing](https://github.com/sjchoi86/tensorflow-101/blob/master/notebooks/basic_imgprocess.ipynb) / [Generating Custom Dataset](https://github.com/sjchoi86/tensorflow-101/blob/master/notebooks/basic_gendataset.ipynb)
 2. Machine Learing Basics with TensorFlow: [Linear Regression](https://github.com/sjchoi86/tensorflow-101/blob/master/notebooks/linear_regression.ipynb) / [Logistic Regression with MNIST](https://github.com/sjchoi86/tensorflow-101/blob/master/notebooks/logistic_regression_mnist.ipynb) / [Logistic Regression with Custom Dataset](https://github.com/sjchoi86/tensorflow-101/blob/master/notebooks/logistic_regression_customdata.ipynb)
@@ -11,3 +11,6 @@ TensorFlow Tutorials
 8. Auto-Encoder Model: [Simple Auto-Encoder](https://github.com/sjchoi86/tensorflow-101/blob/master/notebooks/dae_mnist.ipynb) / [Denoising Auto-Encoder](https://github.com/sjchoi86/tensorflow-101/blob/master/notebooks/dae_mnist_dropout.ipynb) / [Convolutional Auto-Encoder (deconvolution)](https://github.com/sjchoi86/tensorflow-101/blob/master/notebooks/cae_mnist.ipynb)
 9. Class Activation Map (CAM): [Global Average Pooling on MNIST](https://github.com/sjchoi86/tensorflow-101/blob/master/notebooks/gap_mnist.ipynb)
 10. TensorBoard Usage: [Linear Regression](https://github.com/sjchoi86/tensorflow-101/blob/master/notebooks/vis_linear_regression.ipynb) / [MLP](https://github.com/sjchoi86/tensorflow-101/blob/master/notebooks/vis_mlp_mnist.ipynb) / [CNN](https://github.com/sjchoi86/tensorflow-101/blob/master/notebooks/vis_cnn_mnist.ipynb) 
+
+
+##### Most of the codes are simple refactoring of [Aymeric Damien's Tutorial](https://github.com/aymericdamien/TensorFlow-Examples/) or [Nathan Lintz's Tutorial](https://github.com/nlintz/TensorFlow-Tutorials). 
