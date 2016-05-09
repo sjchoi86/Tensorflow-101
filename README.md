@@ -2,6 +2,7 @@
 
 ##### by [Sungjoon Choi](http://enginius.tistory.com) 
 
+## Contents
 1. Basics of [TensorFlow](https://github.com/sjchoi86/tensorflow-101/blob/master/notebooks/basic_tensorflow.ipynb) / [MNIST](https://github.com/sjchoi86/tensorflow-101/blob/master/notebooks/basic_mnist.ipynb) / [Image Processing](https://github.com/sjchoi86/tensorflow-101/blob/master/notebooks/basic_imgprocess.ipynb) / [Generating Custom Dataset](https://github.com/sjchoi86/tensorflow-101/blob/master/notebooks/basic_gendataset.ipynb)
 2. Machine Learing Basics with TensorFlow: [Linear Regression](https://github.com/sjchoi86/tensorflow-101/blob/master/notebooks/linear_regression.ipynb) / [Logistic Regression with MNIST](https://github.com/sjchoi86/tensorflow-101/blob/master/notebooks/logistic_regression_mnist.ipynb) / [Logistic Regression with Custom Dataset](https://github.com/sjchoi86/tensorflow-101/blob/master/notebooks/logistic_regression_customdata.ipynb)
 3. Multi-Layer Perceptron (MLP): [Simple MNIST](https://github.com/sjchoi86/tensorflow-101/blob/master/notebooks/mlp_mnist_simple.ipynb) / [Deeper MNIST](https://github.com/sjchoi86/tensorflow-101/blob/master/notebooks/mlp_mnist_deeper.ipynb) / [Xavier Init MNIST](https://github.com/sjchoi86/tensorflow-101/blob/master/notebooks/mlp_mnist_xavier.ipynb) / [Custom Dataset](https://github.com/sjchoi86/tensorflow-101/blob/master/notebooks/mlp_customdata_basic.ipynb)
