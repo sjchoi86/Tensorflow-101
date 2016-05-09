@@ -13,4 +13,4 @@
 10. TensorBoard Usage: [Linear Regression](https://github.com/sjchoi86/tensorflow-101/blob/master/notebooks/vis_linear_regression.ipynb) / [MLP](https://github.com/sjchoi86/tensorflow-101/blob/master/notebooks/vis_mlp_mnist.ipynb) / [CNN](https://github.com/sjchoi86/tensorflow-101/blob/master/notebooks/vis_cnn_mnist.ipynb) 
 
 
-##### Most of the codes are simple refactoring of [Aymeric Damien's Tutorial](https://github.com/aymericdamien/TensorFlow-Examples/) or [Nathan Lintz's Tutorial](https://github.com/nlintz/TensorFlow-Tutorials). 
+#### Most of the codes are simple refactoring of [Aymeric Damien's Tutorial](https://github.com/aymericdamien/TensorFlow-Examples/) or [Nathan Lintz's Tutorial](https://github.com/nlintz/TensorFlow-Tutorials). 
