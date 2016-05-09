@@ -22,6 +22,6 @@ TensorFlow tutorials written in pyhton (of course) with Jupyter Notebook. Tried 
 - [Pretrained VGG](http://www.vlfeat.org/matconvnet/models/beta16/imagenet-vgg-verydeep-19.mat): inside 'data/' folder
 
 ## Note
-Most of the codes are simple refactoring of [Aymeric Damien's Tutorial](https://github.com/aymericdamien/TensorFlow-Examples/) or [Nathan Lintz's Tutorial](https://github.com/nlintz/TensorFlow-Tutorials). 
+Most of the codes are simple refactorings of [Aymeric Damien's Tutorial](https://github.com/aymericdamien/TensorFlow-Examples/) or [Nathan Lintz's Tutorial](https://github.com/nlintz/TensorFlow-Tutorials). 
 
 ##### Collected and Modifyed by [Sungjoon](http://enginius.tistory.com) 
