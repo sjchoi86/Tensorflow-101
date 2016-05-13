@@ -23,5 +23,6 @@ TensorFlow tutorials written in pyhton (of course) with Jupyter Notebook. Tried 
 
 ## Note
 Most of the codes are simple refactorings of [Aymeric Damien's Tutorial](https://github.com/aymericdamien/TensorFlow-Examples/) or [Nathan Lintz's Tutorial](https://github.com/nlintz/TensorFlow-Tutorials). 
+There could be missing credits. Please let me know. 
 
 ##### Collected and Modifyed by [Sungjoon](http://enginius.tistory.com) 
