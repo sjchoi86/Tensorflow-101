@@ -1,4 +1,5 @@
 import os
+import codecs
 import collections
 import numpy as np
 from six.moves import cPickle
@@ -24,7 +25,7 @@ class TextLoader():
         self.reset_batch_pointer()
 
     def preprocess(self, input_file, vocab_file, tensor_file):
-        with open(input_file, "r") as f:
+        with codecs.open(input_file, "r", encoding="utf8") as f:
             data = f.read()
         counter = collections.Counter(data)
         count_pairs = sorted(counter.items(), key=lambda x: -x[1])
