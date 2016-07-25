@@ -1,2 +1,5 @@
 notebooks/data*
 notebooks/.ipynb* 
+.ipynb_checkpoints
+*.pyc
+.DS_Store
