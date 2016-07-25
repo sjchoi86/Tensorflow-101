@@ -1,6 +1,0 @@
-model_checkpoint_path: "cnn_basic.ckpt-4"
-all_model_checkpoint_paths: "cnn_basic.ckpt-0"
-all_model_checkpoint_paths: "cnn_basic.ckpt-1"
-all_model_checkpoint_paths: "cnn_basic.ckpt-2"
-all_model_checkpoint_paths: "cnn_basic.ckpt-3"
-all_model_checkpoint_paths: "cnn_basic.ckpt-4"
