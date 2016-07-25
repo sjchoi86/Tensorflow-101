@@ -16,6 +16,7 @@ TensorFlow tutorials written in Python (of course) with Jupyter Notebook. Tried 
 11. [Semantic segmentation](https://github.com/sjchoi86/Tensorflow-101/blob/master/notebooks/semseg_basic.ipynb)
 12. [Super resolution (working)](https://github.com/sjchoi86/Tensorflow-101/blob/master/notebooks/superres_cnn.ipynb)
 13. [Web crawler](https://github.com/sjchoi86/Tensorflow-101/blob/master/notebooks/webcrawling_naverstock.ipynb)
+14. [Gaussian process regression](https://github.com/sjchoi86/Tensorflow-101/blob/master/notebooks/gp_demo.ipynb)
 
 ## Requirements
 - TensorFlow
