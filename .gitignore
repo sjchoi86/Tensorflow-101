@@ -3,3 +3,6 @@ notebooks/.ipynb*
 .ipynb_checkpoints
 *.pyc
 .DS_Store
+word2vec_sunghak
+notebooks/nets/*
+blank.ipynb
