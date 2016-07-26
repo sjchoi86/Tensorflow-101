@@ -14,7 +14,7 @@ TensorFlow tutorials written in Python (of course) with Jupyter Notebook. Tried 
 9. Class Activation Map (CAM): [Global Average Pooling on MNIST](https://github.com/sjchoi86/tensorflow-101/blob/master/notebooks/gap_mnist.ipynb)
 10. TensorBoard Usage: [Linear Regression](https://github.com/sjchoi86/tensorflow-101/blob/master/notebooks/vis_linear_regression.ipynb) / [MLP](https://github.com/sjchoi86/tensorflow-101/blob/master/notebooks/vis_mlp_mnist.ipynb) / [CNN](https://github.com/sjchoi86/tensorflow-101/blob/master/notebooks/vis_cnn_mnist.ipynb) 
 11. [Semantic segmentation](https://github.com/sjchoi86/Tensorflow-101/blob/master/notebooks/semseg_basic.ipynb)
-12. [Super resolution (working)](https://github.com/sjchoi86/Tensorflow-101/blob/master/notebooks/superres_cnn.ipynb)
+12. [Super resolution (in progress)](https://github.com/sjchoi86/Tensorflow-101/blob/master/notebooks/superres_cnn.ipynb)
 13. [Web crawler](https://github.com/sjchoi86/Tensorflow-101/blob/master/notebooks/webcrawling_naverstock.ipynb)
 14. [Gaussian process regression](https://github.com/sjchoi86/Tensorflow-101/blob/master/notebooks/gp_demo.ipynb)
 
