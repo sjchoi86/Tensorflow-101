@@ -18,7 +18,7 @@ TensorFlow tutorials written in Python (of course) with Jupyter Notebook. Tried 
 13. [Web crawler](https://github.com/sjchoi86/Tensorflow-101/blob/master/notebooks/webcrawling_naverstock.ipynb)
 14. [Gaussian process regression](https://github.com/sjchoi86/Tensorflow-101/blob/master/notebooks/gp_demo.ipynb)
 15. [Neural Style](https://github.com/sjchoi86/Tensorflow-101/blob/master/notebooks/neural_style.ipynb)
-
+16. [Face detection with OpenCV](https://github.com/sjchoi86/Tensorflow-101/blob/master/notebooks/basic_opencv2.ipynb)
 ## Requirements
 - TensorFlow
 - Numpy
