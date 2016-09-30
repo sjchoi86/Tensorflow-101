@@ -19,6 +19,7 @@ TensorFlow tutorials written in Python (of course) with Jupyter Notebook. Tried 
 14. [Gaussian process regression](https://github.com/sjchoi86/Tensorflow-101/blob/master/notebooks/gp_demo.ipynb)
 15. [Neural Style](https://github.com/sjchoi86/Tensorflow-101/blob/master/notebooks/neural_style.ipynb)
 16. [Face detection with OpenCV](https://github.com/sjchoi86/Tensorflow-101/blob/master/notebooks/basic_opencv2.ipynb)
+
 ## Requirements
 - TensorFlow
 - Numpy
@@ -31,4 +32,5 @@ TensorFlow tutorials written in Python (of course) with Jupyter Notebook. Tried 
 Most of the codes are simple refactorings of [Aymeric Damien's Tutorial](https://github.com/aymericdamien/TensorFlow-Examples/) or [Nathan Lintz's Tutorial](https://github.com/nlintz/TensorFlow-Tutorials). 
 There could be missing credits. Please let me know. 
 
-##### Collected and Modifyed by [Sungjoon](http://enginius.tistory.com) 
+#### Collected and Modifyed by [Sungjoon](http://enginius.tistory.com) 
+[info](http://cpslab.snu.ac.kr/people/sungjoon-choi)
